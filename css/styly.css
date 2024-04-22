@@ -116,10 +116,11 @@ li em {
 }
 
 footer {
-  text-align: center;
-  margin: auto;
-  font-size: 80%;
   color: gray;
+  margin: 10px auto;
+  text-align: center;
+  font-size: 80%;
+
 }
 
 strong {
